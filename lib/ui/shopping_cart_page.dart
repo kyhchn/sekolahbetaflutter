@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:shopping_cart/models/product.dart';
 import 'package:shopping_cart/ui/shopping_cart_item_qty.dart';
 
